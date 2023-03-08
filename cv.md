@@ -35,3 +35,12 @@ greet();
     + [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
     + **Udemy**: [HTML/CSS](https://www.udemy.com/course/webdeveloper/)
     + **Udemy**: [JavaScript/React](https://www.udemy.com/course/webdeveloper/)
+    
+## Experience
+# Language
+* **Kazakh** - native
+* **Russian** - native
+## English
+**B1** Intermediate - practice in offline course
+    
+    
